@@ -1,7 +1,7 @@
 #  OSM map l10n functions
 ## (from German Mapnik style)
 
-## ![This Repository is deprecated in favor of https://github.com/giggls/osml10n/](https://github.com/giggls/osml10n/)
+## [This Repository is deprecated in favor of https://github.com/giggls/osml10n/](https://github.com/giggls/osml10n/)
 
 All l10n functions from German Mapnik style are implemented as PL/pgSQL stored procedures
 and are therefore usable in a renderer independent way.
